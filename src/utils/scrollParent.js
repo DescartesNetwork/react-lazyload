@@ -8,7 +8,7 @@ export default (node) => {
   }
 
   const excludeStaticParent = node.style.position === 'absolute'
-  const overflowRegex = /(scroll|auto)/
+  const overflowRegex = /(scroll|auto|overlay)/
   let parent = node
 
   while (parent) {
