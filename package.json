@@ -1,5 +1,5 @@
 {
-  "name": "react-lazyload",
+  "name": "@senswap/react-lazyload",
   "version": "3.2.2",
   "description": "Lazyload your components, images or anything where performance matters.",
   "main": "lib/index.js",
