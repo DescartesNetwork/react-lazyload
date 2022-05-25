@@ -1,5 +1,5 @@
 {
-  "name": "@senswap/react-lazyload",
+  "name": "@sentre/react-lazyload",
   "version": "3.2.2",
   "description": "Lazyload your components, images or anything where performance matters.",
   "main": "lib/index.js",
@@ -12,19 +12,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jasonslyvia/react-lazyload.git"
+    "url": "https://github.com/DescartesNetwork/react-lazyload.git"
   },
   "keywords": [
     "react-component",
     "react",
     "lazyload"
   ],
-  "author": "jasonslyvia <jasonslyvia@gmail.com> (http://undefinedblog.com/)",
+  "author": "Tu Phan <tuphan@descartes.network>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jasonslyvia/react-lazyload/issues"
+    "url": "https://github.com/DescartesNetwork/react-lazyload/issues"
   },
-  "homepage": "https://github.com/jasonslyvia/react-lazyload",
+  "homepage": "https://github.com/DescartesNetwork/react-lazyload",
   "devDependencies": {
     "babel-cli": "^6.24.0",
     "babel-core": "^6.24.0",

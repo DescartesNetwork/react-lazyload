@@ -1,6 +1,6 @@
 # Note
 
-This repo is forked from react-lazyload with a few amendments:
+This repo is forked from [react-lazyload](https://github.com/twobin/react-lazyload) with a few amendments:
 
 - Support `overlay` scroll parents
 
@@ -12,9 +12,6 @@ var overflowRegex = /(scroll|auto|overlay)/;
 ```
 
 - Natively add typescript types
-
-This project is now currently maintained by
-[@ameerthehacker](https://github.com/ameerthehacker), please reach out to him on any issues or help.
 
 ---
 
